@@ -1,1 +1,1 @@
-![samsung pay demo](demo/samsung-pay.gif)
+<img src="./demo/samsung-pay.gif" alt="samsung pay demo" height="300">
