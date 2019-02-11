@@ -1,1 +1,1 @@
-<img src="./demo/samsung-pay.gif" alt="samsung pay demo" height="300">
+<img src="./demo/samsung-pay.gif" alt="samsung pay demo" height="500">
